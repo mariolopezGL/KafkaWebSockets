@@ -9,3 +9,15 @@
 .idea/misc.xml
 .idea/vcs.xml
 .idea/workspace.xml
+.idea/compiler.xml
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/KafkaWebSocketsApplication.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/config/WebSocketConfig.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/controller/MessageController.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/dto/Message.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/kafka/config/KafkaConsumerConfig.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/kafka/config/KafkaProducerConfig.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/kafka/listener/KafkaMessageListener.class
+out/production/classes/com/example/kafka/websockets/kafkaWebSockets/kafka/producer/KafkaMessageProducer.class
+out/production/resources/application.yml
+out/production/resources/static/app.js
+out/production/resources/static/index.html
