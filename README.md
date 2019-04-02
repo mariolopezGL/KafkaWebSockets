@@ -29,4 +29,4 @@ Post example:
 ```
 
 ## UI Example
-When running the application a UI example can be accessed in `<app url>/messages`. This will show an UI for sending an reading messages.
+When running the application a UI example can be accessed in `<app url>/messages`. This will show an UI for sending and reading messages.
