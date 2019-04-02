@@ -1,0 +1,14 @@
+
+server:
+  port: 9091
+  servlet:
+    context-path: /messages
+
+com.example.kafka.websockets.kafkaWebSockets.topic.messages: kafka.messages
+
+spring:
+  kafka:
+    consumer:
+      groupId: messages-group
+      bootstrapServers: localhost:9092
+
